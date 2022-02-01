@@ -24,7 +24,7 @@ Now take a moment to run the code. You will notice the `main` method is calling 
 **Your action:** Fix the method so it passes the tests and matches what is described in the javadoc. 
 
 ## Step 4: Working with Strings
-Look at `streetLight1()`. When you ran the tests in Step3, you will have noticed that this method is also failing tests! However, the return types seem correct. Take a moment to look through this method, and work on the following:
+Look at `streetLight1()`. When you ran the tests in Step 3, you will have noticed that this method is also failing tests! However, the return types seem correct. Take a moment to look through this method, and work on the following:
 
 1. Create a diagram similar to the example in Step 3. 
 2. Fix this method so that it works. 
